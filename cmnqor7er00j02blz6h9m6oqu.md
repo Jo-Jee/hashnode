@@ -1,5 +1,5 @@
 ---
-title: "[BariBot] Day 0 - "
+title: "[BariBot] Day 0"
 datePublished: 2026-04-08T23:35:04.518Z
 cuid: cmnqor7er00j02blz6h9m6oqu
 slug: baribot-day-0
